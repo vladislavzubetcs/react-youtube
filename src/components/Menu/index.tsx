@@ -1,9 +1,8 @@
 const Menu = () => {
-    return (
-        <>
-            
-        </>
-    )
+  return (
+    <>
+    </>
+  )
 }
 
 export default Menu
